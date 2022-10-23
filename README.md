@@ -2,4 +2,4 @@
 
 feature/A
 feature/B
-feature/D
+feature/D/2
